@@ -1,0 +1,9 @@
+Artificial Intelligence also known as “Machine Learning” is almost covering up all our brains getting popularized just by its name everywhere and almost on everything related to the technical fields & technology. Examples we see in our daily life such as : Personal assistants, suggestive searches & suggestions, Self-driving vehicles, A.I. camera and many more.
+
+But that not what really A.I. means, this all the functions are done by the high advance level of coding.
+
+What really Artificial Intelligence explains for is “Learning by its own”.
+
+Such as : Neural networks from the Google’s Deep Mind, which can make connections and reach meanings without relying on predefined behavioral algorithms that can improve on past iterations, get smarter and more aware, allowing it to enhance its own capabilities and its knowledge.
+
+Many of us are still clueless on just how A.I. is being used today for businesses purposes on both big and small sectors and effecting peoples mind on its future.
